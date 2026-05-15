@@ -5,7 +5,7 @@
   "cclawVersion": "0.1.0",
   "openclawVersion": "2026.4.29",
   "llamaCppBuild": "b9145",
-  "generatedAt": "2026-05-14T23:30:00+08:00",
+  "generatedAt": "2026-05-15T20:53:39+08:00",
   "updatePolicy": {
     "preserve": [
       "data/**",
@@ -34,10 +34,14 @@
     {
       "id": "cclaw-usb-content",
       "version": "0.1.0",
-      "url": "",
-      "sha256": "",
-      "size": 0,
-      "installMode": "overlay-preserve-data"
+      "url": "https://github.com/flaltangyi/c-claw-release-channel/releases/download/v0.1.0-test/cclaw-usb-content-0.1.0.zip",
+      "sha256": "8EE30A8BB394B18F876F2ED1FF1C83F63E48B1CB05266417B54A0CCD18C10B37",
+      "size": 133525,
+      "installMode": "overlay-preserve-data",
+      "signatureState": "signed",
+      "signatureAlgorithm": "RSA-SHA256",
+      "publicKeyId": "cclaw-update-rsa-v1",
+      "signatureBase64": "cqzD5skYnkYzcEAzGqAVwK7klIkSQ86hkqmuZNpbwn3y1vZi3qPh/udfIge3j4nQzTo4K3TIkGvv4gp/17XHTy3geHvRc6fS7uanBon1pG2Bk1HwWIIJbIfA6RZAeNTAqIxMKyjN5v/b6ldsfBgVX4I4cBkbKcFwfeo+Zhjh7BebUm4YbG8u7xj0hIyD4EvgMg7YFK4wJcrzKBe8SjpTdvjnbV3uzn+lSvkLIrC0NDCmR9RffyhVjWOvsZJexxAFoBtIGtHmuW+E9IS49qu9QA3pJhbechsc7pybUx8flNT37l19A1wmT3nT9rbeQTCAT35T/VVp/mzmNrg8b5mnOg=="
     }
   ]
 }
