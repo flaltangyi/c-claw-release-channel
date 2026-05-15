@@ -5,7 +5,7 @@
     "cclawVersion":  "0.1.0",
     "openclawVersion":  "2026.4.29",
     "llamaCppBuild":  "b9145",
-    "generatedAt":  "2026-05-15T21:41:12+08:00",
+    "generatedAt":  "2026-05-15T22:52:24+08:00",
     "updatePolicy":  {
                          "preserve":  [
                                           "data/**",
@@ -37,14 +37,14 @@
                      {
                          "id":  "cclaw-usb-content",
                          "version":  "0.1.0",
-                         "url":  "https://github.com/flaltangyi/c-claw-release-channel/releases/download/v0.1.0-test/cclaw-usb-content-0.1.0.zip",
-                         "sha256":  "25E46DE6594C31533856F3B465B0F5CE45B6FAA641AC06F75284AE3E60306073",
-                         "size":  135438,
+                         "url":  "https://raw.githubusercontent.com/flaltangyi/c-claw-release-channel/main/packages/cclaw-usb-content-0.1.0.zip",
+                         "sha256":  "D045700C30A6DB1B97EB821F52373D0F531668C4437D272AE37A3D6198C13694",
+                         "size":  146255,
                          "installMode":  "overlay-preserve-data",
                          "signatureState":  "signed",
                          "signatureAlgorithm":  "RSA-SHA256",
                          "publicKeyId":  "cclaw-update-rsa-v1",
-                         "signatureBase64":  "ghBPVfc1s7u4Syh2gK2VJn+bsx0/wuw6mCU9Y+HiV1HYMrHfTcHXmwOtv+0dm/4iwOcJu0KAGlU4I6AQbPfOhfqMLouiUiQa3tyaOrFT2ThJgOvidlIjl14VOm9wylyMHvgn8kda8B12r5hFxlmZsUKQsmRImeo/w/OVA4E0Tv70Q5LfpepyaXaCmxf2J6Vi3slQMCVdCG3p/7YumnA1WET0dfzY/mCM5k9KX2E4mBR2k/gbRVX6GsK9R6otDcLoHwGDRUL8YxK0Dv6bGkpQ7q9uLfQ5q5U0gOxnwuTE1u0dq4qxZf4tsOKncJ209j5SV4uZNM12EX27eE+a7nd9HQ=="
+                         "signatureBase64":  "UPBcU8CUv+0awwcXtf+KnE3SG/ekT6zhaAZyf8wQFIshMyQ81dwVr5P0luqI5r9dfGACB04LbMyry/uiCoehJ6VSDZFmffyLXywL2BKvDTlP6fsfcT5cf6/jCAsG2xey/vSIqnMl5H9ofXNB2WrDHriul5yfPZ9ItdIoOyrPo+1W01xAPTVUihOA3f53+V/IpbfuBAdzoDkD6HS9MKMAOGpu1BMbKW9Pj8c0bZ3sdr+0u/pcfqOb+cUMYwmoaVIndtsGxPtZaRKkn53VLHLMR0mRFKvGjw3iPa4VRn5R6p5h614k9p9FVPRRlZjhLyKgpCBam+4bRRzkNngt+2Tifw=="
                      }
                  ]
 }
