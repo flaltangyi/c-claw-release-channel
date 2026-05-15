@@ -5,7 +5,7 @@
     "cclawVersion":  "0.1.0",
     "openclawVersion":  "2026.4.29",
     "llamaCppBuild":  "b9145",
-    "generatedAt":  "2026-05-15T23:32:18+08:00",
+    "generatedAt":  "2026-05-16T00:40:11+08:00",
     "updatePolicy":  {
                          "preserve":  [
                                           "data/**",
@@ -22,14 +22,14 @@
                        "version":  "2026-05-15",
                        "url":  "https://huggingface.co/bartowski/Hermes-3-Llama-3.1-8B-GGUF/resolve/main/Hermes-3-Llama-3.1-8B-Q4_K_M.gguf",
                        "downloadMirrors":  [
-
+                                               "https://www.modelscope.cn/models/bartowski/Hermes-3-Llama-3.1-8B-GGUF/resolve/master/Hermes-3-Llama-3.1-8B-Q4_K_M.gguf"
                                            ],
                        "fileName":  "Hermes-3-Llama-3.1-8B-Q4_K_M.gguf",
                        "size":  4920734624,
                        "sizeBytes":  4920734624,
                        "sha256":  "44B5C529DFFAF34657A4C44A7919E5958B4270FBD365EED3B87D3444B45A378A",
                        "targetPath":  "models/Hermes-3-Llama-3.1-8B-Q4_K_M.gguf",
-                       "source":  "HuggingFace: bartowski/Hermes-3-Llama-3.1-8B-GGUF",
+                       "source":  "HuggingFace primary + ModelScope mirror: bartowski/Hermes-3-Llama-3.1-8B-GGUF",
                        "upgradePolicy":  "manual-confirm"
                    }
                ],
