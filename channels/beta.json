@@ -1,0 +1,47 @@
+{
+    "schemaVersion":  1,
+    "channel":  "beta",
+    "product":  "C-CLAW Hermes USB",
+    "cclawVersion":  "0.1.0",
+    "openclawVersion":  "2026.4.29",
+    "llamaCppBuild":  "b9145",
+    "generatedAt":  "2026-05-15T20:11:18+08:00",
+    "updatePolicy":  {
+                         "preserve":  [
+                                          "data/**",
+                                          "models/**",
+                                          "local-model/**"
+                                      ],
+                         "requiresManualModelUpgrade":  true
+                     },
+    "modelManifestUrl":  "../models/hermes-3-llama-3.1-8b-q4_k_m.json",
+    "models":  [
+                   {
+                       "id":  "hermes-local",
+                       "name":  "Hermes 3 Llama 3.1 8B Q4_K_M",
+                       "version":  "2026-05-15",
+                       "url":  "https://huggingface.co/bartowski/Hermes-3-Llama-3.1-8B-GGUF/resolve/main/Hermes-3-Llama-3.1-8B-Q4_K_M.gguf",
+                       "fileName":  "Hermes-3-Llama-3.1-8B-Q4_K_M.gguf",
+                       "size":  4920734624,
+                       "sizeBytes":  4920734624,
+                       "sha256":  "44B5C529DFFAF34657A4C44A7919E5958B4270FBD365EED3B87D3444B45A378A",
+                       "targetPath":  "models/Hermes-3-Llama-3.1-8B-Q4_K_M.gguf",
+                       "source":  "HuggingFace: bartowski/Hermes-3-Llama-3.1-8B-GGUF",
+                       "upgradePolicy":  "manual-confirm"
+                   }
+               ],
+    "packages":  [
+                     {
+                         "id":  "cclaw-usb-content",
+                         "version":  "0.1.0",
+                         "url":  "D:\\Code\\codex\\c-claw-release-channel\\packages\\cclaw-usb-content-0.1.0.zip",
+                         "sha256":  "8EE30A8BB394B18F876F2ED1FF1C83F63E48B1CB05266417B54A0CCD18C10B37",
+                         "size":  133525,
+                         "installMode":  "overlay-preserve-data",
+                         "signatureState":  "signed",
+                         "signatureAlgorithm":  "RSA-SHA256",
+                         "publicKeyId":  "cclaw-update-rsa-v1",
+                         "signatureBase64":  "cqzD5skYnkYzcEAzGqAVwK7klIkSQ86hkqmuZNpbwn3y1vZi3qPh/udfIge3j4nQzTo4K3TIkGvv4gp/17XHTy3geHvRc6fS7uanBon1pG2Bk1HwWIIJbIfA6RZAeNTAqIxMKyjN5v/b6ldsfBgVX4I4cBkbKcFwfeo+Zhjh7BebUm4YbG8u7xj0hIyD4EvgMg7YFK4wJcrzKBe8SjpTdvjnbV3uzn+lSvkLIrC0NDCmR9RffyhVjWOvsZJexxAFoBtIGtHmuW+E9IS49qu9QA3pJhbechsc7pybUx8flNT37l19A1wmT3nT9rbeQTCAT35T/VVp/mzmNrg8b5mnOg=="
+                     }
+                 ]
+}

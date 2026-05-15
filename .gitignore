@@ -1,0 +1,8 @@
+*.zip
+*.7z
+*.tar.gz
+*.gguf
+*.tmp
+.build/
+.secrets/
+licenses/license-ledger.csv

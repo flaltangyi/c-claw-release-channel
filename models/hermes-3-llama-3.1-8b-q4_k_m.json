@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "model": {
+    "id": "hermes-local",
+    "name": "Hermes 3 Llama 3.1 8B Q4_K_M",
+    "version": "2026-05-15",
+    "url": "https://huggingface.co/bartowski/Hermes-3-Llama-3.1-8B-GGUF/resolve/main/Hermes-3-Llama-3.1-8B-Q4_K_M.gguf",
+    "sizeBytes": 4920734624,
+    "sha256": "44B5C529DFFAF34657A4C44A7919E5958B4270FBD365EED3B87D3444B45A378A",
+    "targetPath": "models/Hermes-3-Llama-3.1-8B-Q4_K_M.gguf",
+    "fileName": "Hermes-3-Llama-3.1-8B-Q4_K_M.gguf",
+    "source": "HuggingFace: bartowski/Hermes-3-Llama-3.1-8B-GGUF",
+    "upgradePolicy": "manual-confirm"
+  }
+}
