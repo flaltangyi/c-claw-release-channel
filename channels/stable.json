@@ -5,7 +5,7 @@
   "cclawVersion": "0.1.0",
   "openclawVersion": "2026.4.29",
   "llamaCppBuild": "b9145",
-  "generatedAt": "2026-05-15T20:53:39+08:00",
+  "generatedAt": "2026-05-15T21:05:24+08:00",
   "updatePolicy": {
     "preserve": [
       "data/**",
@@ -21,6 +21,7 @@
       "name": "Hermes 3 Llama 3.1 8B Q4_K_M",
       "version": "2026-05-15",
       "url": "https://huggingface.co/bartowski/Hermes-3-Llama-3.1-8B-GGUF/resolve/main/Hermes-3-Llama-3.1-8B-Q4_K_M.gguf",
+      "downloadMirrors": [],
       "fileName": "Hermes-3-Llama-3.1-8B-Q4_K_M.gguf",
       "size": 4920734624,
       "sizeBytes": 4920734624,
@@ -35,13 +36,13 @@
       "id": "cclaw-usb-content",
       "version": "0.1.0",
       "url": "https://github.com/flaltangyi/c-claw-release-channel/releases/download/v0.1.0-test/cclaw-usb-content-0.1.0.zip",
-      "sha256": "8EE30A8BB394B18F876F2ED1FF1C83F63E48B1CB05266417B54A0CCD18C10B37",
-      "size": 133525,
+      "sha256": "DFEF2FCA4BDC0E4D9349994B85BCE56E1669BCC6FF6FA3722A67837F12AB2E16",
+      "size": 134857,
       "installMode": "overlay-preserve-data",
       "signatureState": "signed",
       "signatureAlgorithm": "RSA-SHA256",
       "publicKeyId": "cclaw-update-rsa-v1",
-      "signatureBase64": "cqzD5skYnkYzcEAzGqAVwK7klIkSQ86hkqmuZNpbwn3y1vZi3qPh/udfIge3j4nQzTo4K3TIkGvv4gp/17XHTy3geHvRc6fS7uanBon1pG2Bk1HwWIIJbIfA6RZAeNTAqIxMKyjN5v/b6ldsfBgVX4I4cBkbKcFwfeo+Zhjh7BebUm4YbG8u7xj0hIyD4EvgMg7YFK4wJcrzKBe8SjpTdvjnbV3uzn+lSvkLIrC0NDCmR9RffyhVjWOvsZJexxAFoBtIGtHmuW+E9IS49qu9QA3pJhbechsc7pybUx8flNT37l19A1wmT3nT9rbeQTCAT35T/VVp/mzmNrg8b5mnOg=="
+      "signatureBase64": "h3bVBT3nQ5wTsR9LTssh4DwRiQknq+ElQYdwJD4BMqpzrVWLc/PsQAi3+fTz/E6cdsBRO88grwr7aSF+14uCwyd6D2fZo8ZSloXOMCrqgUDnCTazR7tHkWstElzSPwCHU3UQtSSpODN/HJkDWGtsqV2f8rQ0fpi4rz5SLK7bhHOdSYV0XHGBDSC/J64Zn4HlzaY9GxtJ9HE/JrgixRudqsMOvvRWVr/pDGNgGbc+YaMlKsYIcf64rlaZTq+Y9OiERqTFSge7+Lw9uD91NnNY4j1sE5+uOwyGj/sLNFIYyVPx6fc1tKtPH5IN8IahbjGYVQ0CLx4xrIyTiyipDVF1Tg=="
     }
   ]
 }
