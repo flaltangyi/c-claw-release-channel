@@ -5,7 +5,7 @@
     "cclawVersion":  "0.1.0",
     "openclawVersion":  "2026.4.29",
     "llamaCppBuild":  "b9145",
-    "generatedAt":  "2026-05-15T22:52:24+08:00",
+    "generatedAt":  "2026-05-15T23:25:50+08:00",
     "updatePolicy":  {
                          "preserve":  [
                                           "data/**",
@@ -38,13 +38,13 @@
                          "id":  "cclaw-usb-content",
                          "version":  "0.1.0",
                          "url":  "https://raw.githubusercontent.com/flaltangyi/c-claw-release-channel/main/packages/cclaw-usb-content-0.1.0.zip",
-                         "sha256":  "D045700C30A6DB1B97EB821F52373D0F531668C4437D272AE37A3D6198C13694",
-                         "size":  146255,
+                         "sha256":  "4DEEF1BC263D77581F2D4DF4528B08ED83F70D128B58BB20C83DE411A40514E8",
+                         "size":  146256,
                          "installMode":  "overlay-preserve-data",
                          "signatureState":  "signed",
                          "signatureAlgorithm":  "RSA-SHA256",
                          "publicKeyId":  "cclaw-update-rsa-v1",
-                         "signatureBase64":  "UPBcU8CUv+0awwcXtf+KnE3SG/ekT6zhaAZyf8wQFIshMyQ81dwVr5P0luqI5r9dfGACB04LbMyry/uiCoehJ6VSDZFmffyLXywL2BKvDTlP6fsfcT5cf6/jCAsG2xey/vSIqnMl5H9ofXNB2WrDHriul5yfPZ9ItdIoOyrPo+1W01xAPTVUihOA3f53+V/IpbfuBAdzoDkD6HS9MKMAOGpu1BMbKW9Pj8c0bZ3sdr+0u/pcfqOb+cUMYwmoaVIndtsGxPtZaRKkn53VLHLMR0mRFKvGjw3iPa4VRn5R6p5h614k9p9FVPRRlZjhLyKgpCBam+4bRRzkNngt+2Tifw=="
+                         "signatureBase64":  "J7NdCoVWwABb0eV0aPE78ByBogBn5CSGJTTib4AA+bngBisLCB5x0/DknNVF+Y+nF52K5WEKI759xQvBJlJhdpTfTpr23pzf6JPeGAlKntuWZyAONdehKnkV8TfyjmA15F7WrOkecqUtfNFzQcwZwrGueJY5kAe8UlPoqwYzSbuN+cgQI4l3C+7BHcB++VvWwLDeYRHmk8SipnvGyxOiZviOgotyPRo94/FEUjQyauRy1D7DfWi/0LXIjNxYWikoly7AtggRfmRdFaltUKDHf6GIId0rCOTAEZsbt/fR6DZp/9BqQj2Nd6Z/GQiP1KrUSqF7vN1vB2tbZLoEpsB6cw=="
                      }
                  ]
 }
