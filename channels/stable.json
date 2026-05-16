@@ -5,7 +5,7 @@
     "cclawVersion":  "0.1.0",
     "openclawVersion":  "2026.4.29",
     "llamaCppBuild":  "b9145",
-    "generatedAt":  "2026-05-16T00:40:11+08:00",
+    "generatedAt":  "2026-05-17T00:13:47+08:00",
     "updatePolicy":  {
                          "preserve":  [
                                           "data/**",
@@ -37,14 +37,14 @@
                      {
                          "id":  "cclaw-usb-content",
                          "version":  "0.1.0",
-                         "url":  "https://raw.githubusercontent.com/flaltangyi/c-claw-release-channel/caab48b0badf778ff1e9513f146b8e7dedc6666c/packages/cclaw-usb-content-0.1.0.zip",
-                         "sha256":  "A2ED94D8732FEA83AE5D24ACA74F4E9D9277745226F2804BCE992AA13EBF5629",
-                         "size":  146222,
+                         "url":  "https://raw.githubusercontent.com/flaltangyi/c-claw-release-channel/ada8a738d75a354b83b75c38f88d6c303a89d235/packages/cclaw-usb-content-0.1.0.zip",
+                         "sha256":  "37DDC47E2CB7A01AC84BF456E4F8514B1A5D6BB93A42BDB02EEFDF603DFC8893",
+                         "size":  155017,
                          "installMode":  "overlay-preserve-data",
                          "signatureState":  "signed",
                          "signatureAlgorithm":  "RSA-SHA256",
                          "publicKeyId":  "cclaw-update-rsa-v1",
-                         "signatureBase64":  "YpcdfkrI9j7AsXgC5LaL2F9xoBlr9tbs3IaDqpIRLitCwKRxWs6o3iwtTGyFswXEaMeop+z7dvhn6JvxS5RUhneomF950oXrwsnfYzG2hRhHEnh9kmGmcme+wVUztYdJorbP8zbfb4qRW9JI2q/KOW5owuJbKBdSe/Y2zBA5moHjMQQ4ewzgxHNxRapIq41S050w4xogPDn3p7qlYJkf2MzzLB1rHZ9jkruEP0axLd/Kn7h2qmJlFf/Z0af0UW7BaQ5aj5C92vuwNK79yKu8Wvc54M5ZBcbzCwLaitOePK8weNIlEnQjti9d/YLyd45nq2UgF21+oSqtSj6IDo8QpA=="
+                         "signatureBase64":  "EGnQW2BiMxnuws1Pf7dvWvPwLxebrdEP7re2uBetVUFK4P0/zDAW8JCvFzMwJyVh8dweJ+0YBKamaf9LZFEhxtuoOpATK94Ev6/p3VH0CqTqMYAY00kh4DOpdWTpEmD3k39mU+8hm3ZFqy2T2G28YD3e6AUnx2D6evYIiaj2owAddkI9Xvz0jdXFFaTZ1nSbrUryiPZ5g2/Z9mKU6VDSMDVjqcBMLmbnkm0NgXtNzBnjUa2pKKzE90NoDdBzo/+g5XTIRP+JydcaHG1CrdDhrSvepd/UaOQq8HiiYXckcLRLa1HiVdXXbu6Fz54kH8aJ4+0n7oVOa9HLnE3O907/iQ=="
                      }
                  ]
 }
