@@ -37,7 +37,7 @@
                      {
                          "id":  "cclaw-usb-content",
                          "version":  "0.1.0",
-                         "url":  "https://raw.githubusercontent.com/flaltangyi/c-claw-release-channel/main/packages/cclaw-usb-content-0.1.0.zip",
+                         "url":  "https://raw.githubusercontent.com/flaltangyi/c-claw-release-channel/6dfc3d3bda01d813317ae7c8a5e9c666a9f12f3d/packages/cclaw-usb-content-0.1.0.zip",
                          "sha256":  "8EB655117D649B083D0D779BAE5A867CEEA5EBD36E15A2923CBDD5BB00D75B7E",
                          "size":  175923,
                          "installMode":  "overlay-preserve-data",
