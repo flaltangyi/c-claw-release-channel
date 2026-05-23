@@ -5,7 +5,7 @@
     "cclawVersion":  "0.1.0",
     "openclawVersion":  "2026.4.29",
     "llamaCppBuild":  "b9145",
-    "generatedAt":  "2026-05-20T23:06:15+08:00",
+    "generatedAt":  "2026-05-23T18:20:28+08:00",
     "updatePolicy":  {
                          "preserve":  [
                                           "data/**",
@@ -37,14 +37,14 @@
                      {
                          "id":  "cclaw-usb-content",
                          "version":  "0.1.0",
-                         "url":  "https://raw.githubusercontent.com/flaltangyi/c-claw-release-channel/6dfc3d3bda01d813317ae7c8a5e9c666a9f12f3d/packages/cclaw-usb-content-0.1.0.zip",
-                         "sha256":  "8EB655117D649B083D0D779BAE5A867CEEA5EBD36E15A2923CBDD5BB00D75B7E",
-                         "size":  175923,
+                         "url":  "https://raw.githubusercontent.com/flaltangyi/c-claw-release-channel/refs/heads/main/packages/cclaw-usb-content-0.1.0.zip",
+                         "sha256":  "B38153CD166EA6A2B3473D0F7DA7FE950AD7AA407F3594118C63C426A945CC92",
+                         "size":  183505,
                          "installMode":  "overlay-preserve-data",
                          "signatureState":  "signed",
                          "signatureAlgorithm":  "RSA-SHA256",
                          "publicKeyId":  "cclaw-update-rsa-v1",
-                         "signatureBase64":  "HzfcPdllmwrRmhszkDZPeZmDTSXOpAiW3WwG1F49p69O1+u3MHVunIrUW3pwTnNzpH+mg7kVPnogpNpVejL5zNdrmxsYgDjQ96RRuznzZjpZtSOXkmINUGnAEpG3mbfZIe8LnZgU0OJe+HVjYKPb1+yiIuwDrhczTiSEbU1HRii83a6lj1iBOZlQoCO/YXTZ8d7uR3SnZlYomx5cI/9vwQI43x5EvGuJ4XR/Q6okbY9EOewoV+ctCWHgJ7v1zaeK6FDPFSK7NU00qN69X88OSX+QX9CebJuZsW6g6liY9QBFqCvr6Iqxq/sqr1xkRBx9xhYVoEvhJFCOcQzPmb6/PA=="
+                         "signatureBase64":  "YFAnPbUn3IpwON9QPqyDDF7WpqMxdHtBLjkKez4iUwywrRYh97GghTDHVQyNR6ro1lNZvTMMHRKjD5j6v7q/ntsMOQ4m5zYOi8MvUQvZfC6Ngj72wjg92VB41qfsqBusHb04o8JZOZSmrN8r9qXzjH40OgU4G/8zU+g3GuZCDWq2K9Jg6gkl+XL6VQt+OTAr8NmTQVAz70+xn9q09Ko708ZF32KxdDp/ChkAfWbQUGS1ZPCD+5QdTsU0uZXi99DQqdGD0InDfHd4jmWFRqC7X+ctW76t//VQTFJS+Tmp6c8kHIaBxhcU0pEmFAID/0uIZYIC3PfFwl/lFcMAZAstWw=="
                      }
                  ]
 }
