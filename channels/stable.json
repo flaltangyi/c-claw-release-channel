@@ -1,50 +1,50 @@
 {
-  "schemaVersion": 1,
-  "channel": "stable",
-  "product": "C-CLAW Hermes USB",
-  "cclawVersion": "0.1.0",
-  "openclawVersion": "2026.4.29",
-  "llamaCppBuild": "b9145",
-  "generatedAt": "2026-05-23T18:20:28+08:00",
-  "updatePolicy": {
-    "preserve": [
-      "data/**",
-      "models/**",
-      "local-model/**"
-    ],
-    "requiresManualModelUpgrade": true
-  },
-  "modelManifestUrl": "../models/hermes-3-llama-3.1-8b-q4_k_m.json",
-  "models": [
-    {
-      "id": "hermes-local",
-      "name": "Hermes 3 Llama 3.1 8B Q4_K_M",
-      "version": "2026-05-15",
-      "url": "https://huggingface.co/bartowski/Hermes-3-Llama-3.1-8B-GGUF/resolve/main/Hermes-3-Llama-3.1-8B-Q4_K_M.gguf",
-      "downloadMirrors": [
-        "https://www.modelscope.cn/models/bartowski/Hermes-3-Llama-3.1-8B-GGUF/resolve/master/Hermes-3-Llama-3.1-8B-Q4_K_M.gguf"
-      ],
-      "fileName": "Hermes-3-Llama-3.1-8B-Q4_K_M.gguf",
-      "size": 4920734624,
-      "sizeBytes": 4920734624,
-      "sha256": "44B5C529DFFAF34657A4C44A7919E5958B4270FBD365EED3B87D3444B45A378A",
-      "targetPath": "models/Hermes-3-Llama-3.1-8B-Q4_K_M.gguf",
-      "source": "HuggingFace primary + ModelScope mirror: bartowski/Hermes-3-Llama-3.1-8B-GGUF",
-      "upgradePolicy": "manual-confirm"
-    }
-  ],
-  "packages": [
-    {
-      "id": "cclaw-usb-content",
-      "version": "0.1.0",
-      "url": "https://raw.githubusercontent.com/flaltangyi/c-claw-release-channel/76a808268c8538c6b0e93090a7d6939c8c6eaabc/packages/cclaw-usb-content-0.1.0.zip",
-      "sha256": "B38153CD166EA6A2B3473D0F7DA7FE950AD7AA407F3594118C63C426A945CC92",
-      "size": 183505,
-      "installMode": "overlay-preserve-data",
-      "signatureState": "signed",
-      "signatureAlgorithm": "RSA-SHA256",
-      "publicKeyId": "cclaw-update-rsa-v1",
-      "signatureBase64": "YFAnPbUn3IpwON9QPqyDDF7WpqMxdHtBLjkKez4iUwywrRYh97GghTDHVQyNR6ro1lNZvTMMHRKjD5j6v7q/ntsMOQ4m5zYOi8MvUQvZfC6Ngj72wjg92VB41qfsqBusHb04o8JZOZSmrN8r9qXzjH40OgU4G/8zU+g3GuZCDWq2K9Jg6gkl+XL6VQt+OTAr8NmTQVAz70+xn9q09Ko708ZF32KxdDp/ChkAfWbQUGS1ZPCD+5QdTsU0uZXi99DQqdGD0InDfHd4jmWFRqC7X+ctW76t//VQTFJS+Tmp6c8kHIaBxhcU0pEmFAID/0uIZYIC3PfFwl/lFcMAZAstWw=="
-    }
-  ]
+    "schemaVersion":  1,
+    "channel":  "stable",
+    "product":  "C-CLAW Hermes USB",
+    "cclawVersion":  "0.1.1",
+    "openclawVersion":  "2026.4.29",
+    "llamaCppBuild":  "b9145",
+    "generatedAt":  "2026-05-31T21:50:22+08:00",
+    "updatePolicy":  {
+                         "preserve":  [
+                                          "data/**",
+                                          "models/**",
+                                          "local-model/**"
+                                      ],
+                         "requiresManualModelUpgrade":  true
+                     },
+    "modelManifestUrl":  "../models/hermes-3-llama-3.1-8b-q4_k_m.json",
+    "models":  [
+                   {
+                       "id":  "hermes-local",
+                       "name":  "Hermes 3 Llama 3.1 8B Q4_K_M",
+                       "version":  "2026-05-15",
+                       "url":  "https://huggingface.co/bartowski/Hermes-3-Llama-3.1-8B-GGUF/resolve/main/Hermes-3-Llama-3.1-8B-Q4_K_M.gguf",
+                       "downloadMirrors":  [
+                                               "https://www.modelscope.cn/models/bartowski/Hermes-3-Llama-3.1-8B-GGUF/resolve/master/Hermes-3-Llama-3.1-8B-Q4_K_M.gguf"
+                                           ],
+                       "fileName":  "Hermes-3-Llama-3.1-8B-Q4_K_M.gguf",
+                       "size":  4920734624,
+                       "sizeBytes":  4920734624,
+                       "sha256":  "44B5C529DFFAF34657A4C44A7919E5958B4270FBD365EED3B87D3444B45A378A",
+                       "targetPath":  "models/Hermes-3-Llama-3.1-8B-Q4_K_M.gguf",
+                       "source":  "HuggingFace primary + ModelScope mirror: bartowski/Hermes-3-Llama-3.1-8B-GGUF",
+                       "upgradePolicy":  "manual-confirm"
+                   }
+               ],
+    "packages":  [
+                     {
+                         "id":  "cclaw-usb-content",
+                         "version":  "0.1.1",
+                         "url":  "https://raw.githubusercontent.com/flaltangyi/c-claw-release-channel/refs/heads/main/packages/cclaw-usb-content-0.1.1.zip",
+                         "sha256":  "34219D4F01B869B43F7A4139F3831BCA3FB7E3F04E8CC7A5D6177B9C512118E9",
+                         "size":  183654,
+                         "installMode":  "overlay-preserve-data",
+                         "signatureState":  "signed",
+                         "signatureAlgorithm":  "RSA-SHA256",
+                         "publicKeyId":  "cclaw-update-rsa-v1",
+                         "signatureBase64":  "mGiJ1F2AQEH/3mEv49pYiYxH8VudI8A1BSVvx/p9OiBacN8HPjbT/TWGfs6+HQnRTuvpHX6yQKcXqVCdy4fPxZJTotUB5DL6ovh/zr2MF2lDPXJ3+acXvgHG65eJ6q+Y29BqNoi82vGhmbEw6vNB+Xa/CejJ+4F7HQ40qHhqcMUiIvZuHwyI9SFigo5Uff7+csMRmSE/Df3brdSC623AqTEqd93PjLjWGg007NxCq4vP31Jevv6ukO6Qq1xzbKVh4uoiAf/1eKGSKEi9HUq/C18qIrfSqqGRDIWQVcpyH6MVfAObqr2wFtamU6VHqvZNy0RCQA1cpgFvqxvWXd9Mdw=="
+                     }
+                 ]
 }
