@@ -2,10 +2,10 @@
     "schemaVersion":  1,
     "channel":  "stable",
     "product":  "C-CLAW Hermes USB",
-    "cclawVersion":  "0.1.1",
+    "cclawVersion":  "0.1.2",
     "openclawVersion":  "2026.4.29",
     "llamaCppBuild":  "b9145",
-    "generatedAt":  "2026-05-31T21:50:22+08:00",
+    "generatedAt":  "2026-06-02T00:13:40+08:00",
     "updatePolicy":  {
                          "preserve":  [
                                           "data/**",
@@ -36,15 +36,15 @@
     "packages":  [
                      {
                          "id":  "cclaw-usb-content",
-                         "version":  "0.1.1",
-                         "url":  "https://raw.githubusercontent.com/flaltangyi/c-claw-release-channel/refs/heads/main/packages/cclaw-usb-content-0.1.1.zip",
-                         "sha256":  "34219D4F01B869B43F7A4139F3831BCA3FB7E3F04E8CC7A5D6177B9C512118E9",
-                         "size":  183654,
+                         "version":  "0.1.2",
+                         "url":  "https://raw.githubusercontent.com/flaltangyi/c-claw-release-channel/refs/heads/main/packages/cclaw-usb-content-0.1.2.zip",
+                         "sha256":  "5D3B0557A9EC98981586C52C1FC8A18587402C3C3F0FBA0327839E7CB036CF16",
+                         "size":  185911,
                          "installMode":  "overlay-preserve-data",
                          "signatureState":  "signed",
                          "signatureAlgorithm":  "RSA-SHA256",
                          "publicKeyId":  "cclaw-update-rsa-v1",
-                         "signatureBase64":  "mGiJ1F2AQEH/3mEv49pYiYxH8VudI8A1BSVvx/p9OiBacN8HPjbT/TWGfs6+HQnRTuvpHX6yQKcXqVCdy4fPxZJTotUB5DL6ovh/zr2MF2lDPXJ3+acXvgHG65eJ6q+Y29BqNoi82vGhmbEw6vNB+Xa/CejJ+4F7HQ40qHhqcMUiIvZuHwyI9SFigo5Uff7+csMRmSE/Df3brdSC623AqTEqd93PjLjWGg007NxCq4vP31Jevv6ukO6Qq1xzbKVh4uoiAf/1eKGSKEi9HUq/C18qIrfSqqGRDIWQVcpyH6MVfAObqr2wFtamU6VHqvZNy0RCQA1cpgFvqxvWXd9Mdw=="
+                         "signatureBase64":  "gcgxvIEbqvtOkhTRRO7YzoIxOyhb9h7Efuai/mzexlYd95afoCQABCs8pVzRsAi0jL1YkMufs+ijEE1wx+6+KKYGPp/J1q+/Xp2+1cpZGAI0Z2y1mlKADU5VV5mWsRSYVBH2qjHiETH7mJyoXl/vSdBxYe06z7sOhhIzueNMZ/+gOiZ3d2LwZpCMr9Rg0I8XnklxehFgfzBxV9Vk14VHREvhkUrrUItkSVmm4Pvk7dJEJpXU0L9EqlqPZLU6DY6yvA5Qyuyv7DW8kdnMbqJ7nLFFoeMc4tnxPathSYYOsnIpEyQk5TpaIIeX+lGVfaoyTM4ew9OoenSTIHoU7nKj6g=="
                      }
                  ]
 }
